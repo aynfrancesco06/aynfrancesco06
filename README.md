@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayn
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning the basics of Dev Ops
-- 💞️ I’m looking to collaborate on anything that may be related on back-end stuff
+- 🌱 Learning AWS Tools
+- 💞️ I’m looking to collaborate on anything that may be related to AWS Cloud.
 - 📫 Just hit me up on my email, aynfrancesco@gmail.com
 
 <!---
